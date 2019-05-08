@@ -1,0 +1,1 @@
+package sato.daichi.techacademy.jp
