@@ -18,17 +18,14 @@
             android:id="@+id/category_edit"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="カテゴリー"
-            android:layout_toStartOf="@+id/search_button"
-            android:layout_marginEnd="226dp"/>
+            android:hint="カテゴリー"/>
 
     <Button
             android:id="@+id/search_button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_alignParentRight="true"
-            android:text="検索"
-            android:layout_marginRight="0dp"/>
+            android:text="検索"/>
 
     <android.support.design.widget.FloatingActionButton
             android:id="@+id/fab"
